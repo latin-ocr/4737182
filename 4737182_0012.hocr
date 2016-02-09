@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737182_0012.png"; bbox 0 0 1799 3104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 295 1020 1595 1067">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 295 1020 1595 1067">
+     <span class='ocr_line' id='line_1_1' title="bbox 295 1020 1595 1067; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 295 1020 1595 1067; x_wconf 67' lang='lat' dir='ltr'><strong>HASCEPAGELLAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 414 1248 1472 1291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 1248 1472 1291">
+     <span class='ocr_line' id='line_1_2' title="bbox 414 1248 1472 1291; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 414 1249 835 1291; x_wconf 85' lang='lat' dir='ltr'>VENERATIONIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 865 1249 936 1291; x_wconf 91' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 975 1248 1229 1291; x_wconf 86' lang='lat' dir='ltr'>PIETATIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1262 1249 1472 1291; x_wconf 88' lang='lat' dir='ltr'>TESTES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1385 2681 1633 2724">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1385 2681 1633 2724">
+     <span class='ocr_line' id='line_1_3' title="bbox 1385 2681 1633 2724; baseline 0.012 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1385 2681 1615 2722; x_wconf 84' lang='lat' dir='ltr'>AUCTOR</span> <span class='ocrx_word' id='word_1_7' title='bbox 1623 2712 1633 2724; x_wconf 86' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
